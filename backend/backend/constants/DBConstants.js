@@ -1,0 +1,6 @@
+export const DB_HOST = 'localhost'
+export const DB_USER = 'root'
+export const DB_PASSWORD = 'cdac'
+export const DB_NAME = 'users'
+export const USER_TABLE_NAME = 'users'
+export const PROPERTY_TABLE_NAME = 'star'
